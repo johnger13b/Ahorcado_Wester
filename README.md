@@ -1,8 +1,6 @@
-# Oracle Next Education | Desafío N° 1 | Ahorcadito - Versión Wild West
+# Oracle Next Education | Desafío N° 1 | Ahorcadito - Versión Wester
+![image](https://user-images.githubusercontent.com/111591094/198161471-a32534ea-1146-4aa5-8112-8e26b071b7df.png)
 
-![](img/screen/presentacion.jpg)
-
-![](img/Oracle-ONE.webp)
 
 Este desafío fue realizado como práctica para Oracle Next Education.
 
@@ -23,17 +21,9 @@ Extras:
 - La página debe tener un campo para inserción de texto con la finalidad de adicionar nuevas palabras al juego, e un botón "Agregar palabra".
 
 
-
-### Muestra de funcionamiento
-
-https://www.youtube.com/watch?v=VQHOUQey8Ho
-
-
-
 ### Links
 
-- Página URL: https://beatrizang.github.io/juego-del-ahorcadoWW/
-
+- Página URL: 
 
 ### Construido con
 
