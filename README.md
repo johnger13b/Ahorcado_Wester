@@ -1,6 +1,7 @@
-# Oracle Next Education | Desafío N° 1 | Ahorcadito - Versión Wester
+# Oracle Next Education | Desafío N° 2 | Ahorcado - Versión Wester
 ![image](https://user-images.githubusercontent.com/111591094/198161471-a32534ea-1146-4aa5-8112-8e26b071b7df.png)
 
+#challengeahorcado2
 
 Este desafío fue realizado como práctica para Oracle Next Education.
 
